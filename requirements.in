@@ -1,0 +1,25 @@
+### Utils
+pip-tools
+fastcache
+
+
+### Data Science
+numpy
+torch
+
+
+### Image Manipulation
+scikit-image
+Pillow
+opencv-python          # brew install opencv
+
+
+### Visualization
+jupyter
+matplotlib
+seaborn
+visdom
+
+
+### Testing
+pytest
